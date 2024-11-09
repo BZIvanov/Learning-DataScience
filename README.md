@@ -9,3 +9,7 @@ If you using Jupyter Notebook, you can open a folder by opening a terminal and u
 ```bash
 jupyter notebook
 ```
+
+Adding Jupyter as environment variable is not recommended so you can use the Anaconda terminal.
+
+For Windows in the Start menu search `Anaconda PowerShell Prompt`. Navigate to the folder you want and then run `jupyter notebook`. If you want to navigate to the Desktop, you can find it in OneDrive folder in your User folder.
